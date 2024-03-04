@@ -13,6 +13,8 @@
 
 ## Starting with actuall work.
 #### __Step 1__<br> git init : initiation of git. <br> we can see those files using __ls -a__ command
-#### __Step 2__<br> git add *fileName* : adding untracked files to the tracked before commit.
+#### __Step 2__<br> git add __.__ / *fileName* : adding untracked files to the tracked before commit.
 #### __Step 3__<br> git commit -m "some message" : to commit changes along with(-m) adding message.
+
+#### *To remove elements after add command and before commit command : __git restored --staged filename__*
 ##### *Note : .git file stores all the history and its hidden*
